@@ -1,0 +1,51 @@
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.exe
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.pdb
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Avatar.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Inicio.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Properties.Resources.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.csproj.GenerateResource.Cache
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.exe
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.pdb
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.exe
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.pdb
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Avatar.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Inicio.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.MenuProfesor.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Resources.Form1.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.csproj.GenerateResource.Cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Properties.Resources.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.csproj.ResolveComReference.cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Interop.ACTIVEXLib.dll
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.MenuProfesor.resources
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio Lector.exe
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio_Lector.Avatar.resources
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio_Lector.Inicio.resources
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio_Lector.MenuProfesor.resources
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio_Lector.Properties.Resources.resources
+C:\Users\Diegoswki\Desktop\Dominio Lector\obj\Debug\Dominio Lector.csproj.GenerateResource.Cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.exe
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Avatar.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Properties.Resources.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.csproj.GenerateResource.Cache
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.exe
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.pdb
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.pdb
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.exe
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.pdb
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Alumno.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Properties.Resources.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio Lector.csproj.GenerateResource.Cache
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.exe
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\bin\Debug\Dominio Lector.pdb
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Profesor.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Alumno.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Profesor.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Login.resources
+D:\Development\Desarrollo Proyectos\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Lecturas.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Lecturas.resources
+D:\Development\C#Programs\Dominio Lector\Dominio Lector\obj\Debug\Dominio_Lector.Login.resources
